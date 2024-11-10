@@ -7,7 +7,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 API_ID = int(os.environ.get("API_ID", "20483216"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "2518170d3dd939b3f2893cbOaae805c4")
+API_HASH = os.environ.get("API_HASH", "2518170d3dd939b3f2893cb0aae805c4")
 
 #Database 
 DB_URI = os.environ.get("DB_URI", "Mongo db mongodb+srv://navedmohammad053:<db_password>@telegram.9xlun.mongodb.net/?retryWrites=true&w=majority")
